@@ -1,0 +1,25 @@
+{
+  "name": "doldrumscss",
+  "version": "1.0.0",
+  "description": "Just let me do css already",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbworld1/doldrumscss.git"
+  },
+  "keywords": [
+    "css",
+    "doldrums",
+    "tailwind",
+    "utility"
+  ],
+  "author": "vwangsf@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bbworld1/doldrumscss/issues"
+  },
+  "homepage": "https://github.com/bbworld1/doldrumscss#readme"
+}

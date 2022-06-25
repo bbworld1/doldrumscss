@@ -1,0 +1,45 @@
+/* Flex On! */
+
+.flex {
+	display: flex;
+}
+
+.f-row {
+	display: flex;
+	flex-direction: row;
+}
+
+.f-col {
+	display: flex;
+	flex-direction: column;
+}
+
+.container {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: start;
+}
+
+.justify-start {
+	justify-content: start;
+}
+.justify-center {
+	justify-content: center;
+}
+.justify-end {
+	justify-content: end;
+}
+
+.align-start {
+	/* Note: aligns on second axis */
+	align-items: start;
+}
+.align-center {
+	/* Note: aligns on second axis */
+	align-items: center;
+}
+.align-end {
+	/* Note: aligns on second axis */
+	align-items: end;
+}
