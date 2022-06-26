@@ -21,6 +21,8 @@ That's it, and that's all we think a CSS framework should provide.
 
 We love bullet lists here.
 
+### Approaches to Installation
+
 Approach A:
 1. `npm install doldrumscss`
 2. Import `doldrumscss/themes/tailwind.css` or whatever other theme.
@@ -29,6 +31,11 @@ Approach A:
 Approach B:
 - Copy your desired theme from themes/ and the doldrums.css from css/.
 - Use them as regular CSS files.
+
+### Approaches to Use
+- Eat raw.
+- Layer on top of Bootstrap or your favorite CSS framework.
+- Do whatever fits the project!
 
 ## Support
 

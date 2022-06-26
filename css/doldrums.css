@@ -1,4 +1,12 @@
 /* Flex On! */
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@300;400;500;800&display=swap');
+
+body {
+    font-family: 'Red Hat Display', 'Tahoma', sans-serif;
+    font-weight: 400;
+	margin: 0;
+	padding: 0;
+}
 
 .flex {
 	display: flex;
@@ -19,6 +27,13 @@
 	flex-direction: column;
 	justify-content: center;
 	align-items: start;
+}
+
+.page {
+	display: flex;
+	flex-direction: column;
+	width: 100vw;
+	height: 100vh;
 }
 
 .justify-start {
